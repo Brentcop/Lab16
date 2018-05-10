@@ -26,11 +26,11 @@ public class CountryApp {
 			} else if (s.equals("3")) {
 				System.out.println();
 				break;
-			} else
+			} else {
 				System.out.println();
 				System.out.println("User input does not match options.  Please try again!");
 				System.out.println();	
-		}
+		}}
 		System.out.println("Goodbye");
 
 	}
